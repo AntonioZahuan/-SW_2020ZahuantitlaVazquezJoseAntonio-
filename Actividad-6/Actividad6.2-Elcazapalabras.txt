@@ -1,0 +1,10 @@
+﻿/((?<!\w)((?<=(^|\(|\[|\"|\'|\)))(R|r)[egex]{4}))|((?<!\w)((R|r)[egex]{4}(?=(\.|\,|\)|\]|\"|\'|$|\W))))/gm
+
+
+                                        Parrafo de Prueba (El mismo del ejercicio):
+
+
+regex, es algo genial.Hola soy un texto random que tiene la palabra 
+"regex" 'regex' "regex cool' escondida escondiregexda gracias a mi 
+Regex, es posible regexpoderoso estoregex, y [Regex]mira (regex es 
+curioso)  (regex es curioso] mi dedo jaja Regex. O Regex
