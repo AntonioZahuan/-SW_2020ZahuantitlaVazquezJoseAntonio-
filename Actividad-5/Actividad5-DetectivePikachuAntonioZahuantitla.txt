@@ -1,0 +1,59 @@
+﻿“Actividad 5:Detective Pikachu-José Antonio Zahuantitla Vázquez”
+
+
+Nota: Son los mismos Resultados solo que uno incluye a los Nombres 
+
+
+19 coincidencias
+Casos con Nombre
+
+
+/^Drogas ([0-2][1-9]|[1-2][0]|[3][0-1])[\/]([0][1-9]|[1][012])[\/]([2][0])([0][5-9]|[1][0-9]|[2][0])([A-Z]|[a-z]|á|é|ó|í|ú| |,|-){1,30}/gm
+
+
+1.Drogas 22/10/2008 Hernández, Ernesto
+2.Drogas 19/09/2018 Fernández, Pedro
+3.Drogas 16/03/2005 Pérez, Ratón
+4.Drogas 25/10/2018 Juárez, Miguel
+5.Drogas 17/12/2006 Cebolla, Shrek
+6.Drogas 27/11/2009 Bond, James
+7.Drogas 30/10/2006 López, Ana
+8.Drogas 19/01/2016 Juárez, Matilda
+9.Drogas 28/03/2010 Pérez, Pedro
+10.Drogas 31/10/2011 Juárez, Susana
+11.Drogas 02/01/2006 Juárez, Benito
+12.Drogas 24/05/2016 Pana, Miguel
+13.Drogas 19/10/2014 López, Susana
+14.Drogas 13/09/2013 De la Torre, Armando
+15.Drogas 29/10/2019 Hernández, Susana
+16.Drogas 15/08/2017 Cruz, Ernesto
+17.Drogas 11/10/2013 Juárez, Ana
+18.Drogas 07/03/2005 López-Gatell, Ana
+19.Drogas 06/07/2008 Shang, Jorge
+
+
+Casos con Nombre
+
+
+/^Drogas ([0-2][1-9]|[1-2][0]|[3][0-1])[\/]([0][1-9]|[1][012])[\/]([2][0])([0][5-9]|[1][0-9]|[2][0])/gm
+
+
+1.Drogas 22/10/2008
+2.Drogas 19/09/2018
+3.Drogas 16/03/2005
+4.Drogas 25/10/2018
+5.Drogas 17/12/2006
+6.Drogas 27/11/2009
+7.Drogas 30/10/2006
+8.Drogas 19/01/2016
+9.Drogas 28/03/2010
+10.Drogas 31/10/2011
+11.Drogas 02/01/2006
+12.Drogas 24/05/2016
+13.Drogas 19/10/2014
+14.Drogas 13/09/2013
+15.Drogas 29/10/2019
+16.Drogas 15/08/2017
+17.Drogas 11/10/2013
+18.Drogas 07/03/2005
+19.Drogas 06/07/2008
