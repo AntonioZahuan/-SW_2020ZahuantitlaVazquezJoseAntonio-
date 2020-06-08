@@ -1,0 +1,21 @@
+﻿“Actividad 6 Buscando a mis amigos los pingüinos”
+ José Antonio Zahuantitla Vázquez
+
+
+/[[+672]{5}\s[0-9]{10}]\s(Skipper|Kowalski|Cabo|Rico)/gm
+
+ Ó Usando la metasecuencia \d
+
+
+  / [[+672]{5}\s[\d]{10}]\s(Skipper|Kowalski|Cabo|Rico)/gm
+
+
+
+
+Resultados
+
+
+[+672 7473935113] Rico
+[+672 5345009331] Skipper
+[+672 8766764155] Kowalski
+[+672 5085533408] Cabo
